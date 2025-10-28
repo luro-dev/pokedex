@@ -9,3 +9,5 @@ createRoot(document.getElementById("root")).render(
     <App />
   </StrictMode>
 );
+
+// 2:40:38 -> setup side nav
