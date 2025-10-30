@@ -10,4 +10,4 @@ createRoot(document.getElementById("root")).render(
   </StrictMode>
 );
 
-// 2:40:38 -> setup side nav
+// 3:09:53 -> finish PokeCard
