@@ -9,5 +9,3 @@ createRoot(document.getElementById("root")).render(
     <App />
   </StrictMode>
 );
-
-// 3:09:53 -> finish PokeCard
