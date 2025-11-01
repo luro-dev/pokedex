@@ -1,1 +1,1 @@
-(https://most-awesome-pokedex.netlify.app/)[Live]
+[https://most-awesome-pokedex.netlify.app/](Live)
